@@ -1,0 +1,46 @@
+.navbar{
+    font-family: 'Heebo', sans-serif;
+    background-color: transparent;
+}
+.navbar .navbar-brand
+{
+color: #0F3460;
+font-family:'Heebo', sans-serif;
+font-size: 48px;
+font-weight: bolder;
+}
+
+.navbar-nav{
+    font-size: 36px;
+    font-weight: bold;
+}
+.navbar .nav-link {
+    color:#0F3460;
+}
+.navbar .nav-link:hover{
+    color:#E94560;
+
+    
+}
+
+.jumbotron{
+    font-family: 'Heebo', sans-serif;
+    color: #0F3460;
+    background-image: url(img/jumbotron.png);
+    background-size: cover;
+    height: 775px;
+    margin-top: -50px;
+    position: relative;
+}
+
+.jumbotron .display-4{
+    font-size: 96px;
+    font-weight: 400;
+    margin-top: 30px; 
+    font-family: 'Heebo', sans-serif;
+}
+.jumbotron .lead{
+    font-size: 40px;
+    font-family: 'Heebo', sans-serif;
+
+}
